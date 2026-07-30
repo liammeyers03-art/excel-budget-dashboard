@@ -1,2 +1,4 @@
-# excel-budget-dashboard
-A dynamic Excel budget dashboard featuring automated transaction tracking, Budget vs. Actual analysis, subscription management, savings allocation, KPI reporting, and interactive visualizations.
+# Excel Budget Dashboard
+A dynamic personal finance dashboard built in Microsoft Excel using advanced formulas, dynamic arrays, conditional formatting, and interactive visualizations
+
+## Dashboard Preview
